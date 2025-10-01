@@ -1,4 +1,5 @@
 // api pequeña para probar
+require("dotenv")
 const express=require("express");
 const path=require("path");
 const app=express();
